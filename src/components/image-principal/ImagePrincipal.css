@@ -1,0 +1,24 @@
+.image{
+    background-image: url(../../resource/img/imageOne.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+.background-letters{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    color: aliceblue;
+}
+.text-img{
+    margin: 95%;
+    margin: auto;
+}
+.button-bgimage{
+    color: rgb(226, 60, 60) !important;
+    font-size: 22px !important;
+    border-radius: 25px !important;
+}

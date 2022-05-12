@@ -1,0 +1,38 @@
+.menu-buttons{
+    /* width: 100% !important; */
+    /* height: 70px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: right !important;  
+    flex-direction: column;
+    align-items: center;
+}
+.header-loginphone{
+    width: 100%;
+    background-color: rgba(29, 29, 29, 0.973);
+    color: white;
+}
+
+.text-phone{    
+    text-align:left;
+}
+.login-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.login-btn a{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    text-decoration: none;
+}
+.navbar-principal{
+     background-color: rgba(39, 39, 39, 0.555);
+     width: 100%;
+     position: fixed !important;
+    
+}
+.navbar-principal .nav-link,.navbar-brand,.navbar-toggler-icon{
+    color: rgb(225, 228, 227) !important;
+}
